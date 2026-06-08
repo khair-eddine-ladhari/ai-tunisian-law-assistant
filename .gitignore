@@ -1,0 +1,20 @@
+
+
+
+
+.env# Virtual environment
+venv/
+
+# Environment variables (API keys)
+.env
+
+# Data files (too large for GitHub)
+data/pdfs/
+data/chunks/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
