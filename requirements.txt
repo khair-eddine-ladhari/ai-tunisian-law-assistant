@@ -1,0 +1,11 @@
+
+
+
+gradio>=6.0
+sentence-transformers
+pinecone
+groq
+tenacity
+tiktoken
+python-dotenv
+ 
